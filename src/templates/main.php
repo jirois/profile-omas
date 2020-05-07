@@ -15,10 +15,10 @@
     <div class="collapse navbar-collapse hide">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/">BIO</a>
+                <a class="nav-link" href="/bio">BIO</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/profile">SKILL</a>
+                <a class="nav-link" href="/skill">SKILL</a>
             </li>
         </ul>
     </div>
@@ -34,7 +34,6 @@
     </div>
     </div>
    <?php } ?>
-   <?php echo "<img src='../assets/profilepic.jpg' alt='my-profile pic'>";?>
 
 </main>
 </body>
